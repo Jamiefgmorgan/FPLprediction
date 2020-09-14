@@ -1,0 +1,193 @@
+,team,web_name,id_x,chance_of_playing_next_round,now_cost,minutes,team_name,first_name,second_name,full_name,matches,name,link,season,fuzz_ratio
+0,1,Özil,1,,70,1439,Arsenal,Mesut,Özil,MesutÖzil,Mesut_Özil,Mesut_Özil,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Mesut_%C3%96zil,2016-17,89
+2,1,David Luiz,3,,55,2809,Arsenal,David,Luiz Moreira Marinho,DavidLuiz Moreira Marinho,David_Luiz Moreira Marinho,David_Luiz Moreira Marinho,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/David_Luiz%20Moreira%20Marinho,2016-17,96
+4,1,Cédric,5,,50,1553,Arsenal,Cédric,Soares,CédricSoares,Cédric_Soares,Cédric_Soares,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/C%C3%A9dric_Soares,2016-17,92
+5,1,Mustafi,7,0.0,50,1205,Arsenal,Shkodran,Mustafi,ShkodranMustafi,Shkodran_Mustafi,Shkodran_Mustafi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Shkodran_Mustafi,2016-17,93
+7,1,Xhaka,9,,55,2586,Arsenal,Granit,Xhaka,GranitXhaka,Granit_Xhaka,Granit_Xhaka,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Granit_Xhaka,2016-17,91
+9,1,Bellerín,11,,50,1156,Arsenal,Héctor,Bellerín,HéctorBellerín,Héctor_Bellerín,Héctor_Bellerín,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/H%C3%A9ctor_Beller%C3%ADn,2016-17,93
+10,1,Martínez,12,,45,770,Arsenal,Emiliano,Martínez,EmilianoMartínez,Damian Emiliano_Martinez,Damian Emiliano_Martinez,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Damian%20Emiliano_Martinez,2016-17,88
+11,1,Chambers,13,0.0,45,1102,Arsenal,Calum,Chambers,CalumChambers,Calum_Chambers,Calum_Chambers,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Calum_Chambers,2016-17,92
+13,1,Maitland-Niles,15,,50,1382,Arsenal,Ainsley,Maitland-Niles,AinsleyMaitland-Niles,Ainsley_Maitland-Niles,Ainsley_Maitland-Niles,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ainsley_Maitland-Niles,2016-17,95
+14,1,Holding,16,,45,580,Arsenal,Rob,Holding,RobHolding,Rob_Holding,Rob_Holding,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Rob_Holding,2016-17,90
+24,1,Willian,478,,80,2595,Arsenal,Willian,Borges Da Silva,WillianBorges Da Silva,Willian_Borges Da Silva,Willian_Borges Da Silva,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Willian_Borges%20Da%20Silva,2016-17,95
+26,2,Heaton,28,0.0,45,1794,Aston Villa,Tom,Heaton,TomHeaton,Tom_Heaton,Tom_Heaton,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Tom_Heaton,2016-17,89
+27,2,El Mohamady,29,,45,1024,Aston Villa,Ahmed,El Mohamady,AhmedEl Mohamady,Ahmed_Elmohamady,Ahmed_Elmohamady,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ahmed_Elmohamady,2016-17,88
+28,2,Taylor,31,,45,1088,Aston Villa,Neil,Taylor,NeilTaylor,Neil_Taylor,Neil_Taylor,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Neil_Taylor,2016-17,90
+35,2,Mings,41,,50,2902,Aston Villa,Tyrone,Mings,TyroneMings,Tyrone_Mings,Tyrone_Mings,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Tyrone_Mings,2016-17,91
+36,2,Targett,42,,45,2291,Aston Villa,Matt,Targett,MattTargett,Matt_Targett,Matt_Targett,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Matt_Targett,2016-17,91
+43,3,Lallana,54,,65,371,Brighton,Adam,Lallana,AdamLallana,Adam_Lallana,Adam_Lallana,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Adam_Lallana,2016-17,91
+64,4,Tarkowski,81,,55,3420,Burnley,James,Tarkowski,JamesTarkowski,James_Tarkowski,James_Tarkowski,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_Tarkowski,2016-17,93
+65,4,Bardsley,82,,45,1890,Burnley,Phil,Bardsley,PhilBardsley,Phil_Bardsley,Phil_Bardsley,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Phil_Bardsley,2016-17,92
+66,4,Pieters,83,,45,1876,Burnley,Erik,Pieters,ErikPieters,Erik_Pieters,Erik_Pieters,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Erik_Pieters,2016-17,91
+67,4,Cork,84,0.0,50,2614,Burnley,Jack,Cork,JackCork,Jack_Cork,Jack_Cork,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jack_Cork,2016-17,88
+68,4,Long,85,,45,562,Burnley,Kevin,Long,KevinLong,Kevin_Long,Kevin_Long,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kevin_Long,2016-17,89
+69,4,Rodriguez,86,,60,2002,Burnley,Jay,Rodriguez,JayRodriguez,Jay_Rodriguez,Jay_Rodriguez,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jay_Rodriguez,2016-17,92
+70,4,Barnes,87,,60,1350,Burnley,Ashley,Barnes,AshleyBarnes,Ashley_Barnes,Ashley_Barnes,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ashley_Barnes,2016-17,92
+71,4,Mee,88,,50,2880,Burnley,Ben,Mee,BenMee,Ben_Mee,Ben_Mee,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ben_Mee,2016-17,83
+72,4,Westwood,89,,55,3150,Burnley,Ashley,Westwood,AshleyWestwood,Ashley_Westwood,Ashley_Westwood,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ashley_Westwood,2016-17,93
+73,4,Gudmundsson,90,,55,617,Burnley,Johann Berg,Gudmundsson,Johann BergGudmundsson,Johann Berg_Gudmundsson,Johann Berg_Gudmundsson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Johann%20Berg_Gudmundsson,2016-17,95
+75,4,Lowton,92,,45,1530,Burnley,Matthew,Lowton,MatthewLowton,Matthew_Lowton,Matthew_Lowton,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Matthew_Lowton,2016-17,92
+76,4,Vydra,93,,50,807,Burnley,Matej,Vydra,MatejVydra,Matej_Vydra,Matej_Vydra,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Matej_Vydra,2016-17,90
+77,4,Gibson,94,,40,0,Burnley,Ben,Gibson,BenGibson,Ben_Gibson,Ben_Gibson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ben_Gibson,2016-17,89
+78,4,Brady,95,,50,445,Burnley,Robbie,Brady,RobbieBrady,Robbie_Brady,Robbie_Brady,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Robbie_Brady,2016-17,91
+79,4,Pope,96,,55,3420,Burnley,Nick,Pope,NickPope,Nick_Pope,Nick_Pope,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Nick_Pope,2016-17,88
+83,5,Caballero,101,,50,450,Chelsea,Willy,Caballero,WillyCaballero,Willy_Caballero,Willy_Caballero,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Willy_Caballero,2016-17,93
+84,5,Azpilicueta,102,,60,3229,Chelsea,César,Azpilicueta,CésarAzpilicueta,César_Azpilicueta,César_Azpilicueta,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/C%C3%A9sar_Azpilicueta,2016-17,94
+85,5,Giroud,103,,70,988,Chelsea,Olivier,Giroud,OlivierGiroud,Olivier_Giroud,Olivier_Giroud,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Olivier_Giroud,2016-17,92
+86,5,Alonso,104,,60,1429,Chelsea,Marcos,Alonso,MarcosAlonso,Marcos_Alonso,Marcos_Alonso,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Marcos_Alonso,2016-17,92
+87,5,Barkley,106,,60,1095,Chelsea,Ross,Barkley,RossBarkley,Ross_Barkley,Ross_Barkley,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ross_Barkley,2016-17,91
+89,5,Batshuayi,108,,60,224,Chelsea,Michy,Batshuayi,MichyBatshuayi,Michy_Batshuayi,Michy_Batshuayi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Michy_Batshuayi,2016-17,93
+91,5,Zouma,110,,50,2343,Chelsea,Kurt,Zouma,KurtZouma,Kurt_Zouma,Kurt_Zouma,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kurt_Zouma,2016-17,89
+92,5,Kanté,113,,50,1730,Chelsea,N'Golo,Kanté,N'GoloKanté,N'Golo_Kanté,N'Golo_Kanté,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/N'Golo_Kant%C3%A9,2016-17,91
+93,5,Loftus-Cheek,115,,60,203,Chelsea,Ruben,Loftus-Cheek,RubenLoftus-Cheek,Ruben_Loftus-Cheek,Ruben_Loftus-Cheek,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ruben_Loftus-Cheek,2016-17,94
+102,5,Chilwell,232,0.0,55,2374,Chelsea,Benjamin,Chilwell,BenjaminChilwell,Benjamin_Chilwell,Benjamin_Chilwell,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Benjamin_Chilwell,2016-17,94
+103,6,Cahill,125,0.0,45,2167,Crystal Palace,Gary,Cahill,GaryCahill,Gary_Cahill,Gary_Cahill,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Gary_Cahill,2016-17,90
+104,6,Hennessey,126,,45,270,Crystal Palace,Wayne,Hennessey,WayneHennessey,Wayne_Hennessey,Wayne_Hennessey,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Wayne_Hennessey,2016-17,93
+105,6,Sakho,127,0.0,45,929,Crystal Palace,Mamadou,Sakho,MamadouSakho,Mamadou_Sakho,Mamadou_Sakho,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Mamadou_Sakho,2016-17,92
+107,6,Tomkins,129,0.0,45,1582,Crystal Palace,James,Tomkins,JamesTomkins,James_Tomkins,James_Tomkins,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_Tomkins,2016-17,92
+108,6,McArthur,130,,55,3091,Crystal Palace,James,McArthur,JamesMcArthur,James_McArthur,James_McArthur,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_McArthur,2016-17,92
+109,6,McCarthy,131,,45,1668,Crystal Palace,James,McCarthy,JamesMcCarthy,James_McCarthy,James_McCarthy,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_McCarthy,2016-17,92
+110,6,Benteke,132,,55,1252,Crystal Palace,Christian,Benteke,ChristianBenteke,Christian_Benteke,Christian_Benteke,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Christian_Benteke,2016-17,94
+111,6,Kouyaté,133,,50,2524,Crystal Palace,Cheikhou,Kouyaté,CheikhouKouyaté,Cheikhou_Kouyaté,Cheikhou_Kouyaté,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Cheikhou_Kouyat%C3%A9,2016-17,93
+112,6,Ward,134,,45,2380,Crystal Palace,Joel,Ward,JoelWard,Joel_Ward,Joel_Ward,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Joel_Ward,2016-17,88
+113,6,Kelly,135,,45,1547,Crystal Palace,Martin,Kelly,MartinKelly,Martin_Kelly,Martin_Kelly,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Martin_Kelly,2016-17,91
+114,6,Wickham,136,,45,90,Crystal Palace,Connor,Wickham,ConnorWickham,Connor_Wickham,Connor_Wickham,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Connor_Wickham,2016-17,92
+115,6,Townsend,137,,60,1284,Crystal Palace,Andros,Townsend,AndrosTownsend,Andros_Townsend,Andros_Townsend,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Andros_Townsend,2016-17,93
+116,6,Milivojevic,138,,60,2510,Crystal Palace,Luka,Milivojevic,LukaMilivojevic,Luka_Milivojevic,Luka_Milivojevic,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Luka_Milivojevic,2016-17,93
+117,6,van Aanholt,139,0.0,55,2507,Crystal Palace,Patrick,van Aanholt,Patrickvan Aanholt,Patrick_van Aanholt,Patrick_van Aanholt,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Patrick_van%20Aanholt,2016-17,94
+118,6,Ayew,140,,60,3148,Crystal Palace,Jordan,Ayew,JordanAyew,Jordan_Ayew,Jordan_Ayew,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jordan_Ayew,2016-17,90
+119,6,Zaha,141,,70,3279,Crystal Palace,Wilfried,Zaha,WilfriedZaha,Wilfried_Zaha,Wilfried_Zaha,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Wilfried_Zaha,2016-17,92
+120,6,Schlupp,142,,55,1030,Crystal Palace,Jeffrey,Schlupp,JeffreySchlupp,Jeffrey_Schlupp,Jeffrey_Schlupp,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jeffrey_Schlupp,2016-17,93
+124,6,Dann,486,,45,1264,Crystal Palace,Scott,Dann,ScottDann,Scott_Dann,Scott_Dann,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Scott_Dann,2016-17,89
+125,7,Walcott,148,,60,1281,Everton,Theo,Walcott,TheoWalcott,Theo_Walcott,Theo_Walcott,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Theo_Walcott,2016-17,91
+126,7,Delph,149,,50,1187,Everton,Fabian,Delph,FabianDelph,Fabian_Delph,Fabian_Delph,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Fabian_Delph,2016-17,91
+127,7,Sigurdsson,150,,70,2555,Everton,Gylfi,Sigurdsson,GylfiSigurdsson,Gylfi_Sigurdsson,Gylfi_Sigurdsson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Gylfi_Sigurdsson,2016-17,93
+129,7,Coleman,152,,50,1833,Everton,Seamus,Coleman,SeamusColeman,Seamus_Coleman,Seamus_Coleman,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Seamus_Coleman,2016-17,92
+131,7,Keane,156,,50,2556,Everton,Michael,Keane,MichaelKeane,Michael_Keane,Michael_Keane,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Michael_Keane,2016-17,92
+132,7,Pickford,157,,50,3420,Everton,Jordan,Pickford,JordanPickford,Jordan_Pickford,Jordan_Pickford,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jordan_Pickford,2016-17,93
+134,7,Iwobi,159,,60,1591,Everton,Alex,Iwobi,AlexIwobi,Alex_Iwobi,Alex_Iwobi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Alex_Iwobi,2016-17,89
+135,7,Kenny,160,,45,0,Everton,Jonjoe,Kenny,JonjoeKenny,Jonjoe_Kenny,Jonjoe_Kenny,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jonjoe_Kenny,2016-17,91
+137,7,Davies,163,,55,2020,Everton,Tom,Davies,TomDavies,Tom_Davies,Tom_Davies,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Tom_Davies,2016-17,89
+138,7,Calvert-Lewin,164,,70,2621,Everton,Dominic,Calvert-Lewin,DominicCalvert-Lewin,Dominic_Calvert-Lewin,Dominic_Calvert-Lewin,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Dominic_Calvert-Lewin,2016-17,95
+139,7,Holgate,165,,50,2052,Everton,Mason,Holgate,MasonHolgate,Mason_Holgate,Mason_Holgate,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Mason_Holgate,2016-17,92
+155,8,Mawson,185,,45,0,Fulham,Alfie,Mawson,AlfieMawson,Alfie_Mawson,Alfie_Mawson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Alfie_Mawson,2016-17,91
+159,8,Reed,373,,45,0,Fulham,Harrison,Reed,HarrisonReed,Harrison_Reed,Harrison_Reed,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Harrison_Reed,2016-17,92
+162,9,Morgan,216,75.0,45,430,Leicester,Wes,Morgan,WesMorgan,Wes_Morgan,Wes_Morgan,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Wes_Morgan,2016-17,89
+163,9,Schmeichel,217,,55,3420,Leicester,Kasper,Schmeichel,KasperSchmeichel,Kasper_Schmeichel,Kasper_Schmeichel,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kasper_Schmeichel,2016-17,94
+164,9,Fuchs,218,0.0,45,770,Leicester,Christian,Fuchs,ChristianFuchs,Christian_Fuchs,Christian_Fuchs,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Christian_Fuchs,2016-17,93
+165,9,Evans,219,0.0,55,3384,Leicester,Jonny,Evans,JonnyEvans,Jonny_Evans,Jonny_Evans,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jonny_Evans,2016-17,90
+167,9,Albrighton,221,,55,857,Leicester,Marc,Albrighton,MarcAlbrighton,Marc_Albrighton,Marc_Albrighton,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Marc_Albrighton,2016-17,93
+170,9,Vardy,224,,100,3032,Leicester,Jamie,Vardy,JamieVardy,Jamie_Vardy,Jamie_Vardy,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jamie_Vardy,2016-17,90
+172,9,Amartey,227,0.0,40,0,Leicester,Daniel,Amartey,DanielAmartey,Daniel_Amartey,Daniel_Amartey,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Daniel_Amartey,2016-17,92
+174,9,Gray,230,,55,605,Leicester,Demarai,Gray,DemaraiGray,Demarai_Gray,Demarai_Gray,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Demarai_Gray,2016-17,91
+176,9,Iheanacho,233,,60,953,Leicester,Kelechi,Iheanacho,KelechiIheanacho,Kelechi_Iheanacho,Kelechi_Iheanacho,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kelechi_Iheanacho,2016-17,94
+178,9,Ndidi,236,,50,2671,Leicester,Wilfred,Ndidi,WilfredNdidi,Wilfred_Ndidi,Wilfred_Ndidi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Wilfred_Ndidi,2016-17,92
+185,10,Forshaw,199,,50,0,Leeds,Adam,Forshaw,AdamForshaw,Adam_Forshaw,Adam_Forshaw,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Adam_Forshaw,2016-17,91
+187,10,Bamford,202,,55,0,Leeds,Patrick,Bamford,PatrickBamford,Patrick_Bamford,Patrick_Bamford,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Patrick_Bamford,2016-17,93
+200,11,Milner,241,,55,924,Liverpool,James,Milner,JamesMilner,James_Milner,James_Milner,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_Milner,2016-17,91
+202,11,Wijnaldum,243,,55,2933,Liverpool,Georginio,Wijnaldum,GeorginioWijnaldum,Georginio_Wijnaldum,Georginio_Wijnaldum,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Georginio_Wijnaldum,2016-17,94
+203,11,Henderson,244,,55,2234,Liverpool,Jordan,Henderson,JordanHenderson,Jordan_Henderson,Jordan_Henderson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jordan_Henderson,2016-17,93
+204,11,Adrián,245,,45,873,Liverpool,Adrián,San Miguel del Castillo,AdriánSan Miguel del Castillo,Adrián_San Miguel del Castillo,Adrián_San Miguel del Castillo,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Adri%C3%A1n_San%20Miguel%20del%20Castillo,2016-17,97
+205,11,Matip,246,,55,703,Liverpool,Joel,Matip,JoelMatip,Joel_Matip,Joel_Matip,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Joel_Matip,2016-17,89
+206,11,Shaqiri,247,,65,181,Liverpool,Xherdan,Shaqiri,XherdanShaqiri,Xherdan_Shaqiri,Xherdan_Shaqiri,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Xherdan_Shaqiri,2016-17,93
+207,11,Chamberlain,248,50.0,65,1475,Liverpool,Alex,Oxlade-Chamberlain,AlexOxlade-Chamberlain,Alex_Oxlade-Chamberlain,Alex_Oxlade-Chamberlain,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Alex_Oxlade-Chamberlain,2016-17,95
+208,11,Firmino,249,,95,2985,Liverpool,Roberto,Firmino,RobertoFirmino,Roberto_Firmino,Roberto_Firmino,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Roberto_Firmino,2016-17,93
+209,11,van Dijk,250,,65,3420,Liverpool,Virgil,van Dijk,Virgilvan Dijk,Virgil_van Dijk,Virgil_van Dijk,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Virgil_van%20Dijk,2016-17,93
+210,11,Mané,251,,120,2745,Liverpool,Sadio,Mané,SadioMané,Sadio_Mané,Sadio_Mané,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Sadio_Man%C3%A9,2016-17,89
+214,11,Robertson,255,,70,3111,Liverpool,Andrew,Robertson,AndrewRobertson,Andrew_Robertson,Andrew_Robertson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Andrew_Robertson,2016-17,93
+215,11,Origi,256,,55,699,Liverpool,Divock,Origi,DivockOrigi,Divock_Origi,Divock_Origi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Divock_Origi,2016-17,91
+216,11,Harry Wilson,257,,55,1637,Liverpool,Harry,Wilson,HarryWilson,Harry_Wilson,Harry_Wilson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Harry_Wilson,2016-17,91
+218,11,Alexander-Arnold,259,,75,3173,Liverpool,Trent,Alexander-Arnold,TrentAlexander-Arnold,Trent_Alexander-Arnold,Trent_Alexander-Arnold,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Trent_Alexander-Arnold,2016-17,95
+219,11,Gomez,260,,55,1999,Liverpool,Joseph,Gomez,JosephGomez,Joseph_Gomez,Joseph_Gomez,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Joseph_Gomez,2016-17,91
+220,11,Brewster,262,,45,0,Liverpool,Rhian,Brewster,RhianBrewster,Rhian_Brewster,Rhian_Brewster,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Rhian_Brewster,2016-17,92
+223,12,Fernandinho,266,,55,2394,Man City,Fernando,Luiz Rosa,FernandoLuiz Rosa,Fernando_Luiz Rosa,Fernando_Luiz Rosa,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Fernando_Luiz%20Rosa,2016-17,94
+224,12,Bravo,267,0.0,45,346,Man City,Claudio,Bravo,ClaudioBravo,Claudio_Bravo,Claudio_Bravo,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Claudio_Bravo,2016-17,92
+225,12,Agüero,268,,105,1449,Man City,Sergio,Agüero,SergioAgüero,Sergio_Agüero,Sergio_Agüero,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Sergio_Ag%C3%BCero,2016-17,92
+226,12,Otamendi,269,,50,1710,Man City,Nicolás,Otamendi,NicolásOtamendi,Nicolás_Otamendi,Nicolás_Otamendi,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Nicol%C3%A1s_Otamendi,2016-17,93
+227,12,Walker,270,,60,2392,Man City,Kyle,Walker,KyleWalker,Kyle_Walker,Kyle_Walker,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kyle_Walker,2016-17,90
+228,12,Gündogan,271,,55,2012,Man City,Ilkay,Gündogan,IlkayGündogan,Ilkay_Gündogan,Ilkay_Gündogan,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ilkay_G%C3%BCndogan,2016-17,92
+229,12,De Bruyne,272,,115,2790,Man City,Kevin,De Bruyne,KevinDe Bruyne,Kevin_De Bruyne,Kevin_De Bruyne,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kevin_De%20Bruyne,2016-17,93
+230,12,Stones,273,,50,1118,Man City,John,Stones,JohnStones,John_Stones,John_Stones,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/John_Stones,2016-17,90
+232,12,Mahrez,275,,85,1934,Man City,Riyad,Mahrez,RiyadMahrez,Riyad_Mahrez,Riyad_Mahrez,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Riyad_Mahrez,2016-17,91
+233,12,Sterling,276,,115,2651,Man City,Raheem,Sterling,RaheemSterling,Raheem_Sterling,Raheem_Sterling,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Raheem_Sterling,2016-17,93
+235,12,Aké,279,,55,2503,Man City,Nathan,Aké,NathanAké,Nathan_Aké,Nathan_Aké,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Nathan_Ak%C3%A9,2016-17,89
+238,12,Jesus,282,,95,2018,Man City,Gabriel Fernando,de Jesus,Gabriel Fernandode Jesus,Gabriel Fernando_de Jesus,Gabriel Fernando_de Jesus,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Gabriel%20Fernando_de%20Jesus,2016-17,96
+239,12,Zinchenko,283,,55,1271,Man City,Oleksandr,Zinchenko,OleksandrZinchenko,Oleksandr_Zinchenko,Oleksandr_Zinchenko,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Oleksandr_Zinchenko,2016-17,94
+244,13,Romero,289,,50,0,Man Utd,Sergio,Romero,SergioRomero,Sergio_Romero,Sergio_Romero,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Sergio_Romero,2016-17,92
+245,13,Mata,290,,60,747,Man Utd,Juan,Mata,JuanMata,Juan_Mata,Juan_Mata,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Juan_Mata,2016-17,88
+246,13,de Gea,291,,55,3420,Man Utd,David,de Gea,Davidde Gea,David_de Gea,David_de Gea,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/David_de%20Gea,2016-17,91
+247,13,Smalling,292,,50,0,Man Utd,Chris,Smalling,ChrisSmalling,Chris_Smalling,Chris_Smalling,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Chris_Smalling,2016-17,92
+248,13,Ighalo,293,,65,92,Man Utd,Odion,Ighalo,OdionIghalo,Odion_Ighalo,Odion_Ighalo,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Odion_Ighalo,2016-17,91
+249,13,Rojo,294,,50,121,Man Utd,Marcos,Rojo,MarcosRojo,Marcos_Rojo,Marcos_Rojo,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Marcos_Rojo,2016-17,90
+250,13,Matic,295,,50,1578,Man Utd,Nemanja,Matic,NemanjaMatic,Nemanja_Matic,Nemanja_Matic,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Nemanja_Matic,2016-17,92
+251,13,Pogba,296,,80,1202,Man Utd,Paul,Pogba,PaulPogba,Paul_Pogba,Paul_Pogba,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Paul_Pogba,2016-17,89
+252,13,Jones,297,,50,135,Man Utd,Phil,Jones,PhilJones,Phil_Jones,Phil_Jones,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Phil_Jones,2016-17,89
+253,13,Maguire,298,,55,3420,Man Utd,Harry,Maguire,HarryMaguire,Harry_Maguire,Harry_Maguire,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Harry_Maguire,2016-17,92
+255,13,Shaw,300,,50,1730,Man Utd,Luke,Shaw,LukeShaw,Luke_Shaw,Luke_Shaw,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Luke_Shaw,2016-17,88
+256,13,Lingard,301,,60,923,Man Utd,Jesse,Lingard,JesseLingard,Jesse_Lingard,Jesse_Lingard,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jesse_Lingard,2016-17,92
+258,13,Martial,303,,90,2625,Man Utd,Anthony,Martial,AnthonyMartial,Anthony_Martial,Anthony_Martial,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Anthony_Martial,2016-17,93
+259,13,Pereira,304,,50,1478,Man Utd,Andreas,Pereira,AndreasPereira,Andreas_Pereira,Andreas_Pereira,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Andreas_Pereira,2016-17,93
+260,13,Henderson,305,,55,3240,Man Utd,Dean,Henderson,DeanHenderson,Jordan_Henderson,Jordan_Henderson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jordan_Henderson,2016-17,85
+261,13,Rashford,306,,95,2645,Man Utd,Marcus,Rashford,MarcusRashford,Marcus_Rashford,Marcus_Rashford,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Marcus_Rashford,2016-17,93
+262,13,Tuanzebe,307,,45,187,Man Utd,Axel,Tuanzebe,AxelTuanzebe,Axel_Tuanzebe,Axel_Tuanzebe,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Axel_Tuanzebe,2016-17,92
+264,13,McTominay,309,,50,1765,Man Utd,Scott,McTominay,ScottMcTominay,Scott_McTominay,Scott_McTominay,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Scott_McTominay,2016-17,93
+265,13,Bailly,310,,50,148,Man Utd,Eric,Bailly,EricBailly,Eric_Bailly,Eric_Bailly,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Eric_Bailly,2016-17,90
+266,13,James,311,,65,2281,Man Utd,Daniel,James,DanielJames,Daniel_James,Daniel_James,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Daniel_James,2016-17,91
+267,13,Fosu-Mensah,312,,45,136,Man Utd,Timothy,Fosu-Mensah,TimothyFosu-Mensah,Timothy_Fosu-Mensah,Timothy_Fosu-Mensah,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Timothy_Fosu-Mensah,2016-17,94
+268,13,Wan-Bissaka,313,,55,3070,Man Utd,Aaron,Wan-Bissaka,AaronWan-Bissaka,Aaron_Wan-Bissaka,Aaron_Wan-Bissaka,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Aaron_Wan-Bissaka,2016-17,94
+274,14,Carroll,320,,55,617,Newcastle,Andy,Carroll,AndyCarroll,Andy_Carroll,Andy_Carroll,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Andy_Carroll,2016-17,91
+277,14,Fernández,323,,50,2617,Newcastle,Federico,Fernández,FedericoFernández,Federico_Fernández,Federico_Fernández,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Federico_Fern%C3%A1ndez,2016-17,94
+281,14,Manquillo,332,,45,1597,Newcastle,Javier,Manquillo,JavierManquillo,Javier_Manquillo,Javier_Manquillo,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Javier_Manquillo,2016-17,93
+283,14,Yedlin,335,,45,934,Newcastle,DeAndre,Yedlin,DeAndreYedlin,DeAndre_Yedlin,DeAndre_Yedlin,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/DeAndre_Yedlin,2016-17,92
+291,14,Hendrick,485,,50,1930,Newcastle,Jeff,Hendrick,JeffHendrick,Jeff_Hendrick,Jeff_Hendrick,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jeff_Hendrick,2016-17,92
+307,15,McBurnie,357,,60,2105,Sheffield Utd,Oliver,McBurnie,OliverMcBurnie,Oliver_McBurnie,Oliver_McBurnie,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Oliver_McBurnie,2016-17,93
+309,15,Mousset,359,,60,1223,Sheffield Utd,Lys,Mousset,LysMousset,Lys_Mousset,Lys_Mousset,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Lys_Mousset,2016-17,90
+312,15,Ramsdale,483,,50,3330,Sheffield Utd,Aaron,Ramsdale,AaronRamsdale,Aaron_Ramsdale,Aaron_Ramsdale,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Aaron_Ramsdale,2016-17,92
+313,16,Long,361,,55,1386,Southampton,Shane,Long,ShaneLong,Shane_Long,Shane_Long,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Shane_Long,2016-17,89
+314,16,Bertrand,362,,50,2742,Southampton,Ryan,Bertrand,RyanBertrand,Ryan_Bertrand,Ryan_Bertrand,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ryan_Bertrand,2016-17,92
+315,16,McCarthy,363,,45,2520,Southampton,Alex,McCarthy,AlexMcCarthy,Alex_McCarthy,Alex_McCarthy,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Alex_McCarthy,2016-17,92
+316,16,Oriol Romeu,364,,45,1855,Southampton,Oriol,Romeu Vidal,OriolRomeu Vidal,Oriol_Romeu Vidal,Oriol_Romeu Vidal,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Oriol_Romeu%20Vidal,2016-17,94
+317,16,Redmond,365,,65,2763,Southampton,Nathan,Redmond,NathanRedmond,Nathan_Redmond,Nathan_Redmond,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Nathan_Redmond,2016-17,92
+318,16,Ings,366,,85,2800,Southampton,Danny,Ings,DannyIngs,Danny_Ings,Danny_Ings,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Danny_Ings,2016-17,89
+319,16,Stephens,367,,50,2451,Southampton,Jack,Stephens,JackStephens,Jack_Stephens,Jack_Stephens,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jack_Stephens,2016-17,92
+322,16,Ward-Prowse,370,,60,3420,Southampton,James,Ward-Prowse,JamesWard-Prowse,James_Ward-Prowse,James_Ward-Prowse,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/James_Ward-Prowse,2016-17,94
+323,16,Gunn,371,,45,900,Southampton,Angus,Gunn,AngusGunn,Angus_Gunn,Angus_Gunn,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Angus_Gunn,2016-17,89
+324,16,Boufal,372,,55,753,Southampton,Sofiane,Boufal,SofianeBoufal,Sofiane_Boufal,Sofiane_Boufal,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Sofiane_Boufal,2016-17,92
+326,16,Walker-Peters,375,,45,944,Southampton,Kyle,Walker-Peters,KyleWalker-Peters,Kyle_Walker,Kyle_Walker,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kyle_Walker,2016-17,91
+335,17,Lloris,383,,55,1808,Spurs,Hugo,Lloris,HugoLloris,Hugo_Lloris,Hugo_Lloris,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Hugo_Lloris,2016-17,90
+336,17,Rose,384,,50,1753,Spurs,Danny,Rose,DannyRose,Danny_Rose,Danny_Rose,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Danny_Rose,2016-17,89
+337,17,Sissoko,385,,50,2451,Spurs,Moussa,Sissoko,MoussaSissoko,Moussa_Sissoko,Moussa_Sissoko,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Moussa_Sissoko,2016-17,92
+338,17,Alderweireld,386,,55,2957,Spurs,Toby,Alderweireld,TobyAlderweireld,Toby_Alderweireld,Toby_Alderweireld,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Toby_Alderweireld,2016-17,94
+339,17,Lamela,387,,60,1203,Spurs,Erik,Lamela,ErikLamela,Erik_Lamela,Erik_Lamela,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Erik_Lamela,2016-17,90
+340,17,Kane,388,,105,2588,Spurs,Harry,Kane,HarryKane,Harry_Kane,Harry_Kane,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Harry_Kane,2016-17,89
+342,17,Son,390,,90,2478,Spurs,Heung-Min,Son,Heung-MinSon,Heung-Min_Son,Heung-Min_Son,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Heung-Min_Son,2016-17,92
+343,17,Dier,391,,50,1340,Spurs,Eric,Dier,EricDier,Eric_Dier,Eric_Dier,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Eric_Dier,2016-17,88
+345,17,Gazzaniga,393,,45,1612,Spurs,Paulo,Gazzaniga,PauloGazzaniga,Paulo_Gazzaniga,Paulo_Gazzaniga,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Paulo_Gazzaniga,2016-17,93
+346,17,Alli,394,,80,1845,Spurs,Bamidele,Alli,BamideleAlli,Bamidele_Alli,Bamidele_Alli,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Bamidele_Alli,2016-17,92
+347,17,Davies,395,,50,1430,Spurs,Ben,Davies,BenDavies,Ben_Davies,Ben_Davies,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Ben_Davies,2016-17,89
+348,17,Højbjerg,396,,50,2750,Spurs,Pierre-Emile,Højbjerg,Pierre-EmileHøjbjerg,Pierre-Emile_Højbjerg,Pierre-Emile_Højbjerg,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Pierre-Emile_H%C3%B8jbjerg,2016-17,95
+349,17,Winks,397,,55,2223,Spurs,Harry,Winks,HarryWinks,Harry_Winks,Harry_Winks,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Harry_Winks,2016-17,90
+357,17,Hart,482,100.0,45,0,Spurs,Joe,Hart,JoeHart,Joe_Hart,Joe_Hart,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Joe_Hart,2016-17,86
+358,18,Gibbs,407,,45,0,West Brom,Kieran,Gibbs,KieranGibbs,Kieran_Gibbs,Kieran_Gibbs,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kieran_Gibbs,2016-17,91
+359,18,Robson-Kanu,408,,55,0,West Brom,Hal,Robson-Kanu,HalRobson-Kanu,Hal_Robson-Kanu,Hal_Robson-Kanu,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Hal_Robson-Kanu,2016-17,93
+360,18,Livermore,409,,50,0,West Brom,Jake,Livermore,JakeLivermore,Jake_Livermore,Jake_Livermore,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jake_Livermore,2016-17,92
+361,18,Grosicki,410,,55,0,West Brom,Kamil,Grosicki,KamilGrosicki,Kamil_Grosicki,Kamil_Grosicki,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Kamil_Grosicki,2016-17,92
+362,18,Phillips,411,,55,0,West Brom,Matt,Phillips,MattPhillips,Matt_Phillips,Matt_Phillips,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Matt_Phillips,2016-17,92
+366,18,Austin,415,,55,0,West Brom,Charlie,Austin,CharlieAustin,Charlie_Austin,Charlie_Austin,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Charlie_Austin,2016-17,92
+370,18,Leko,420,0.0,45,0,West Brom,Jonathan,Leko,JonathanLeko,Jonathan_Leko,Jonathan_Leko,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jonathan_Leko,2016-17,92
+373,18,Field,423,,50,0,West Brom,Sam,Field,SamField,Sam_Field,Sam_Field,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Sam_Field,2016-17,88
+376,18,Harper,426,,45,0,West Brom,Rekeem,Harper,RekeemHarper,Rekeem_Harper,Rekeem_Harper,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Rekeem_Harper,2016-17,92
+378,19,Noble,427,,50,2675,West Ham,Mark,Noble,MarkNoble,Mark_Noble,Mark_Noble,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Mark_Noble,2016-17,89
+379,19,Snodgrass,428,,60,1504,West Ham,Robert,Snodgrass,RobertSnodgrass,Robert_Snodgrass,Robert_Snodgrass,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Robert_Snodgrass,2016-17,93
+381,19,Randolph,430,,45,180,West Ham,Darren,Randolph,DarrenRandolph,Darren_Randolph,Darren_Randolph,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Darren_Randolph,2016-17,93
+382,19,Fabianski,431,,50,2117,West Ham,Lukasz,Fabianski,LukaszFabianski,Lukasz_Fabianski,Lukasz_Fabianski,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Lukasz_Fabianski,2016-17,93
+383,19,Ogbonna,432,,50,2786,West Ham,Angelo,Ogbonna,AngeloOgbonna,Angelo_Ogbonna,Angelo_Ogbonna,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Angelo_Ogbonna,2016-17,92
+385,19,Wilshere,434,,50,209,West Ham,Jack,Wilshere,JackWilshere,Jack_Wilshere,Jack_Wilshere,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jack_Wilshere,2016-17,92
+386,19,Cresswell,435,,50,2727,West Ham,Aaron,Cresswell,AaronCresswell,Aaron_Cresswell,Aaron_Cresswell,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Aaron_Cresswell,2016-17,93
+388,19,Antonio,437,,65,1767,West Ham,Michail,Antonio,MichailAntonio,Michail_Antonio,Michail_Antonio,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Michail_Antonio,2016-17,93
+390,19,Lanzini,439,,65,1370,West Ham,Manuel,Lanzini,ManuelLanzini,Manuel_Lanzini,Manuel_Lanzini,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Manuel_Lanzini,2016-17,92
+393,19,Masuaku,442,,45,930,West Ham,Arthur,Masuaku,ArthurMasuaku,Arthur_Masuaku,Arthur_Masuaku,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Arthur_Masuaku,2016-17,92
+396,19,Bowen,445,,65,916,West Ham,Jarrod,Bowen,JarrodBowen,Jarrod_Bowen,Jarrod_Bowen,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Jarrod_Bowen,2016-17,91
+399,19,Rice,448,,50,3420,West Ham,Declan,Rice,DeclanRice,Declan_Rice,Declan_Rice,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Declan_Rice,2016-17,90
+403,19,Johnson,452,,40,270,West Ham,Ben,Johnson,BenJohnson,Glen_Johnson,Glen_Johnson,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Glen_Johnson,2016-17,90
+415,20,Traoré,465,,65,2599,Wolves,Adama,Traoré,AdamaTraoré,Adama_Traoré,Adama_Traoré,/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/players/Adama_Traor%C3%A9,2016-17,91
